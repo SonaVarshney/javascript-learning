@@ -53,6 +53,8 @@
 
   - A data structure that keeps track of execution contexts.
   - A new execution context is pushed onto the stack when a function is called and popped off when the function completes.
+  - <img src="https://github.com/user-attachments/assets/9553e094-2241-4dc7-85cb-a2b699d7da76" alt="Alt text" width="300"/>
+
 
 - **Asynchronous Behavior:**
   - JavaScript can handle asynchronous operations (like API calls) using callbacks, promises, and async/await to prevent blocking the main thread.
